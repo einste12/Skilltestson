@@ -1,4 +1,4 @@
 # skilltest
- #Mail adresi mailtrapa bağlı durumda.
- #Config/Mail altında gerekli ayarlamalar yapılmıştır.
+# Mail adresi mailtrapa bağlı durumda.
+# Config/Mail altında gerekli ayarlamalar yapılmıştır.
 
